@@ -1,0 +1,8 @@
+/.dcignore
+/.idea/.gitignore
+/.idea/MicrosoftLearn.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/snyk.project.settings.xml
+/.idea/vcs.xml
